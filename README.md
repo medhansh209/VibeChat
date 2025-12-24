@@ -22,7 +22,7 @@ It allows users to **register, login, send messages, and share images** seamless
 
 ## 💻 Getting Started
 
-1. Clone the repo:  
+Clone the repo:  
 ```bash
 git clone https://github.com/medhansh209/VibeChat.git
 cd VibeChat
