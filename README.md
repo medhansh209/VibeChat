@@ -38,7 +38,4 @@ Create .env in /backend with MongoDB, JWT secret, and Cloudinary info.
 Run both backend and frontend:
 
 bash
-Copy code
 npm run dev
-yaml
-Copy code
